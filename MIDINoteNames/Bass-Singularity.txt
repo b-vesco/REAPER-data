@@ -1,0 +1,18 @@
+# Spectre Digital Singularity bass VSTi
+# MIDI note/CC name map
+
+67 24th Fret G4 (67)
+43 String (1) open G2 (43)
+38 String(2) open D2 (38)
+33 String(3) open A1 (33)
+28 String(4) open E1 (28)
+23 String(5) open B0 (23)
+21 Drop A0 (21)
+11 Lowest Note B-1 (11)
+9 Pick Up
+8 Pick Down
+7 Alternate Picking
+5 Fingerstyle
+3 Percussive
+2 String Noise
+0 Reset

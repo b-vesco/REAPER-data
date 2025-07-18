@@ -1,0 +1,177 @@
+# MIDI note/CC name map
+#
+# Toontrack EZDrummer 3 - Metal Machine EZX
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+#
+# examples:
+# 60 Middle C
+# CC7 Loudness
+
+
+# ******************************************************************************
+# ******* Ordered like the Toontrack EZD3 MIDI mapping dropdown selector *******
+# ******************************************************************************
+
+# KICK 1
+36 KICK 1-Right
+35     (alias36) k
+34     (alias36) k
+
+# SNARE
+127     (alias37) sn-stk
+126     (alias40) sn-rim
+125     (alias38) sn-c
+76     (alias37) sn-stk
+71     (alias37) sn-c
+70     (alias38) sn-c
+69     (alias38) sn-c
+68     (alias38) sn-c
+67     (alias37) sn-stk
+66     (alias38) sn-c
+40 SNARE-Rimshot
+38 SNARE-Center
+37 SNARE-Sidestick
+33     (alias38) sn-c
+6     (alias38) sn-c
+
+# HAT
+124     (alias15) hh-o3
+123     (alias13) hh-o1
+122     (alias22) hh-c edge
+121     (alias15) hh-o3
+120     (alias13) hh-o1
+119     (alias11) hh-c tip
+65 HAT-Seq Hits
+64     (alias12) hh-o0
+63 HAT-Tight Tip
+62 HAT-Tight Edge
+61     (alias11) hh-c tip
+60     (alias17) hh-o4
+46     (alias14) hh-o2
+44     (alias10) hh-c ped
+42     (alias11) hh-c tip
+26     (alias15) hh-o3
+25     (alias14) hh-o2
+24     (alias13) hh-o1
+23 HAT-Open Pedal
+22 HAT-Closed Edge
+21     (alias10) hh-c ped
+20     (alias9) hh-ttrg
+19     (alias9) hh-ttrg
+18     (alias7) hh-etrg
+17 HAT-Open Edge 5
+16 HAT-Open Edge 4
+15 HAT-Open Edge 3
+14 HAT-Open Edge 2
+13 HAT-Open Edge 1
+12 HAT-Open Edge 0
+11 HAT-Closed Tip
+10 HAT-Closed Pedal
+9 HAT-Tip Trigger
+8     (alias9) hh-ttrig
+7 HAT-Edge Trigger
+
+# TOM 1 (rack)
+82 TOM 1-Rimshot
+81     (alias48) t1
+48 TOM 1-Center
+
+# TOM 2 (rack)
+80 TOM 2-Rimshot
+79     (alias47) t2
+47 TOM 2-Center
+
+# TOM 3 (rack)
+78 TOM 3-Rimshot
+77     (alias45) t3
+45 TOM 3-Center
+
+# TOM 4 (floor)
+75 TOM 4-Rimshot
+74     (alias43) t4
+43 TOM 4-Center
+
+# TOM 5 (floor)
+73 TOM 5-Rimshot
+72     (alias41) t5
+41 TOM 5-Center
+
+# RIDE Cymbal
+117 RIDE-Muted Hit
+116     (alias51) rd-bel
+115     (alias51) rd-edge
+114     (alias53) rd-bel
+113     (alias51) rd-bow
+112     (alias53) rd-bel
+111     (alias51) rd-bow
+110     (alias51) rd-edge
+109     (alias53) rd-bel
+108     (alias51) rd-bow
+105     (alias53) rd-bel
+104     (alias51) rd-bow
+103     (alias51) rd-edge
+102     (alias53) rd-bel
+101     (alias51) rd-bow
+100     (alias53) rd-bel
+99     (alias51) rd-bow
+98     (alias51) rd-edge
+97     (alias53) rd-bel
+96     (alias51) rd-bow
+93     (alias53) rd-bel
+92     (alias51) rd-bow
+91     (alias51) rd-edge
+90     (alias53) rd-bel
+89     (alias51) rd-bow
+88     (alias53) rd-bel
+87     (alias51) rd-bow
+86     (alias51) rd-edge
+85     (alias53) rd-bel
+84     (alias51) rd-bow
+59 RIDE-Edge
+53 RIDE-Bell
+51 RIDE-Bow
+
+# CYMBAL 1
+94 Cymbal 1-Muted Hit
+28 Cymbal 1-Crash
+
+# CYMBAL 2
+50 Cymbal 2-Muted Hit
+49 Cymbal 2-Crash
+
+# CYMBAL 3
+58 Cymbal 3-Muted Hit
+57 Cymbal 3-Crash
+
+# CHINA 1
+83 CHINA 1-Muted Hit
+27 CHINA 1-Crash
+
+# CHINA 2
+54 CHINA 2-Muted Hit
+52 CHINA 2-Crash
+
+# SPLASH 1
+95 Splash 1-Muted Hit
+31 Splash 1-Crash
+
+# SPLASH 2
+56 Splash 2-Muted Hit
+55 Splash 2-Crash
+32     (alias55) spl2-hit
+
+# STACK 1
+106 Stack 1-Muted Hit
+29 Stack 1-Crash
+
+# STACK 2
+107 Stack2-Muted Hit
+30 Stack2-Crash
+
+# PERCUSSION
+3 Tamb-Shake Hit Immediate
+2 Shaker-Shake Hit Immediate
+1 One Shot-Hit

@@ -1,0 +1,153 @@
+# MIDI note/CC name map
+#
+# Toontrack EZDrummer 3 - Hard Rock EZX
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+#
+# examples:
+# 60 Middle C
+# CC7 Loudness
+
+# CYMBAL 1
+94 Cymbal 1-Mute Hit
+55     (alias28) c1 crsh
+52     (alias28) c1 crsh
+33     (alias28) c1 crsh
+28 Cymbal 1-Crash
+
+# CYMBAL 2
+95 Cymbal 2-Mute Hit
+49     (alias27) c3 crsh
+48     (alias27) c3 crsh
+34     (alias27) c3 crsh
+27 Cymbal 2-Crash
+
+# CYMBAL 3
+106     (alias54) c3 mut
+60     (alias54) c3 crsh
+57     (alias54) c3 crsh
+56 Cymbal 3-Mute Hit
+54 Cymbal 3-Crash
+
+# CYMBAL 4
+107     (alias) c4 mut
+58 Cymbal 4-Mute Hit
+32     (alias) c4 crsh
+31 Cymbal 4-Crash
+
+# HAT
+124      (alias15) hh-o5
+123      (alias12) hh-loose
+122      (alias11) hh-c edge
+121      (alias17) hh-o3
+120      (alias13) hh-o1
+119      (alias11) hh-ctip
+65 HAT-Seq Hits
+64 HAT-Loose Clutch
+63 HAT-Tight Tip
+62 HAT-Tight Edge
+61 HAT-Closed Tip
+46     (alias13) hh-o2
+42     (alias61) hh-c tip
+25     (alias13) hh-o2
+24     (alias12) hh-o1
+23 HAT-Open Pedal
+17 HAT-Open Edge 5
+16 HAT-Open Edge 4
+15 HAT-Open Edge 3
+14 HAT-Open Edge 2
+13     (alias12) hh-o1
+12 HAT-Open Edge 1
+11 HAT-Closed Edge
+8 HAT-Open Edge 3
+
+# KICK 1
+36 KICK
+35 KICK
+
+# RIDE Cymbal
+118     (alias53) rd-mut
+117     (alias53) rd-belt
+116     (alias51) rd-bows
+115     (alias51) rd-edge
+114     (alias53) rd-bels
+113     (alias51) rd-bowt
+112     (alias53) rd-belt
+111     (alias51) rd-bows
+110     (alias51) rd-edge
+109     (alias53) rd-bels
+108     (alias51) rd-bowt
+105     (alias53) rd-belt
+104     (alias51) rd-bows
+103     (alias51) rd-edge
+102     (alias53) rd-bels
+101     (alias51) rd-bowt
+100     (alias53) rd-belt
+99     (alias51) rd-bows
+98     (alias51) rd-edge
+97     (alias53) rd-bels
+96     (alias51) rd-bowt
+93     (alias53) rd-belt
+92     (alias51) rd-bows
+91     (alias51) rd-edge
+90     (alias53) rd-bels
+89     (alias51) rd-bowt
+88     (alias53) rd-belt
+87     (alias51) rd-bows
+86     (alias51) rd-edge
+85     (alias53) rd-bels
+84     (alias51) rd-bowt
+83 RIDE-mute
+59 RIDE-edge
+53 RIDE-Bell Shank
+51 RIDE-Bow Tip
+30 RIDE-Bell Tip
+29 RIDE-Bow Shank
+26 RIDE-Edge
+
+# SNARE
+127     (alias37) sn-stk
+126     (alias40) sn-rim
+125     (alias38) sn-c
+76     (alias37) sn-stk
+71     (alias37) sn-rim
+70     (alias38) sn-c
+69     (alias38) sn-c
+68     (alias38) sn-c
+67     (alias37) sn-stk
+66     (alias38) sn-c
+40 SNARE-Rimshot
+39     (alias38) sn-c
+38 SNARE-Center
+37 SNARE-Sidestick
+6     (alias38) sn-c
+
+# TOM 1 (rack)
+82 TOM 1-Rimshot
+81     (alias50) t1c
+50 TOM 1-Center
+
+# TOM 2 (rack)
+80     (alias78) t2 rim
+79     (alias45) t2c
+78 TOM 2-Rimshot
+77     (alias45) t2c
+47     (alias45) t2c
+45 TOM 2-Center
+
+# TOM 3 (floor)
+75 TOM 3-Rimshot
+74     (alias43) t3c
+43 TOM 3-Center
+
+# TOM 4 (floor)
+73 TOM 4-Rimshot
+72     (alias41) t4c
+41 TOM 4-Center
+
+# PERCUSSION
+3 Tamb-Shake Hit Immediate
+2 Shaker-Shake Hit Immediate
+1 One Shot-Hit

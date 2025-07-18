@@ -1,0 +1,20 @@
+# MIDI note/CC name map
+84 KEY C-high, (84)
+72 KEY C-oct 3 (72)
+60 KEY C-oct 2 (60)
+51 PAD B-8
+50 PAD B-7
+49 PAD B-6
+48 PAD B-5 (48), KEY C-low
+47 PAD B-4
+46 PAD B-3
+45 PAD B-2
+44 PAD B-1 (44)
+43 PAD A-8
+42 PAD A-7
+41 PAD A-6
+40 PAD A-5 (40)
+39 PAD A-4
+38 PAD A-3
+37 PAD A-2
+36 PAD A-1 (36)

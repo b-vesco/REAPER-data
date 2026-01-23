@@ -1,0 +1,15 @@
+ColorThemes/
+Cursors/
+Data/
+Effects/
+KeyMaps/
+LangPack/
+MouseMaps/
+OSC/
+presets/
+QueuedRenders/
+reaper_www_root/
+Scripts/
+UserPlugins/
+
+.DS_Store

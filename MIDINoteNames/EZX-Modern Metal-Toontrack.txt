@@ -1,0 +1,132 @@
+# MIDI note/CC name map
+#
+# Toontrack EZDrummer 3 - Modern Metal EZX
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+
+127     (alias37) sn-stk
+126     (alias70) sn-rimshot
+125     (alias39) sn-c
+124     (alias15) hh-o3
+123     (alias13) hh-o1
+122     (alias22) hh-c edge
+121     (alias15) hh-o3
+120     (alias13) hh-o1
+119     (alias11) hh-c tip
+117     (alias53) rd-bell
+116     (alias51) rd-bow
+115     (alias59) rd-edge
+114     (alias53) rd-bell
+113     (alias51) rd-bow
+112     (alias53) rd-bell
+111     (alias51) rd-bow
+110     (alias59) rd-edge
+109     (alias53) rd-bell
+108     (alias51) rd-bow
+107 CR RIDE-Muted Hit
+106     (alias58) crsh2-muted
+105     (alias53) rd-bell
+104     (alias51) rd-bow
+103     (alias59) rd-edge
+102     (alias53) rd-bell
+101     (alias51) rd-bow
+100     (alias53) rd-bell
+99     (alias51) rd-bow
+98     (alias59) rd-edge
+97     (alias53) rd-bell
+96     (alias51) rd-bow
+95 CHINA 1-Muted Hit
+94     (alias50) crsh1-muted
+93     (alias53) rd-bell
+92     (alias51) rd-bow
+91     (alias59) rd-edge
+90     (alias53) rd-bell
+89     (alias51) rd-bow
+88     (alias53) rd-bell
+87     (alias51) rd-bow
+86     (alias59) rd-edge
+85     (alias53) rd-bell
+84     (alias51) rd-bow
+83 RIDE-Muted Hit
+82     (alias48) tom1
+81     (alias48) tom1
+80     (alias45) tom2
+79     (alias45) tom2
+78     (alias45) tom2
+77     (alias45) tom2
+76     (alias37) sn-stk
+75     (alias43) tom3
+74     (alias43) tom3
+73     (alias41) tom4
+72     (alias41) tom4
+71 SNARE-Rim Only
+70     (alias39) sn-c
+69     (alias39) sn-c
+68     (alias39) sn-c
+67     (alias37) sn-stk
+66     (alias39) sn-c
+65     (alias22) hh-c edge
+64     (alias12) hh-o0
+63 HAT-Tight Tip
+62 HAT-Tight Edge
+61     (alias11) hh-c tip
+60     (alias17) hh-o4
+59 RIDE-Edge
+58 CRASH 2-Muted Hit
+57 CRASH 2-Crash
+56 SPLASH-Muted Hit
+55 SPLASH-Crash
+54 CHINA 2-Muted Hit
+53 RIDE-Bell
+52 CHINA 2-Crash
+51 RIDE-Bow
+50 CRASH 1-Muted Hit
+49 CRASH 1-Hit
+48 TOM 1 (Rack)-Center
+47     (alias45) tom2
+46     (alias14) hh-o2
+45 TOM 2 (Rack) Center
+44     (alias10) hh-pd cl
+43 TOM 3 (Floor1) Center
+42     (alias11) hh-cl tip
+41 TOM 4 (Floor2) Center
+40 SNARE-Rimshot
+39 SNARE-Center
+38     (alias39) snare
+37 SNARE-Sidestick
+36 KICK-Hit
+35     (alias36) kick
+34     (alias36) kick
+33 SNARE-Edge
+32 CR RIDE-Crash
+31     (alias32) crash ride
+30 SPOCK-Crash
+29     (alias30) spock
+28 CHINA 1-Crash
+27     (alias28) china1
+26     (alias60) hh-o3
+25     (alias60) hh-o2
+24     (alias60) hh-o1
+23 HAT-Pedal Open
+22 HAT-Closed Edge
+21     (alias10) hh-c ped
+20 HAT-Tip Trigger
+19     (alias20) hh-ttrg
+18 HAT-Edge Trigger
+17     (alias60) hh-o4
+16 HAT-Open Edge 4
+15 HAT-Open Edge 3
+14 HAT-Open Edge 2
+13 HAT-Open Edge 1
+12 HAT-Open Edge 0
+11 HAT-Closed Tip
+10 HAT-Pedal Closed
+9     (alias20) hh-ttrg
+8     (alias20) hh-ttrg
+7     (alias18) hh-etrg
+6 SNARE-Zone Trigger
+3 Tambourine-Shake
+2 Shaker-Shake
+1 One Shot-Hit

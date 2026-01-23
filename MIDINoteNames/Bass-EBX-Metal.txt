@@ -1,0 +1,28 @@
+# MIDI note/CC name map
+81 Highest note?
+76 21st Fret String(1)
+67 12th Fret G4 (67)
+55 String (1) open G3 (55)
+50 String(2) open D3 (50)
+45 String(3) open A2 (45)
+40 String(4) open E2 (40)
+35 String(5) open B0 (35)
+33 Drop A (lowest note)
+32 Hammer/Pull (leave space to stop)
+30 SlidePt1 (span all notes)
+28 CLICK note (28)
+27 THUMP note (27)
+26 B 2vb (26)
+25 DN stroke (25)
+23 Slap/Pop (23)
+22 Harmonic (22)
+20 Tapping (20)
+19 SlideUpPt2(before each note)(19)
+17 SlideDnPt2(before each note)(17)
+16 Ghost Note (16)
+15 Percussive Right Hand
+14 UP stroke (14)
+1 GhostSlap=Ghost+Slap
+0 Perc Lft=PercRt+Slap
+CC67 Damping
+CC68 Sustain

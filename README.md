@@ -9,6 +9,13 @@ repository. If you _don't_ know how to use git well then ignore git and browse
 the directories directly and click to view the raw files and download or copy
 them to your machine.
 
+If you clone the repo and want to use _all_ files, you can symlink them to your
+REAPER install dir (set for macOS only):
+
+```shell
+./makelinks.sh
+```
+
 # MIDI Note Names
 
 The `./MIDINoteNames` directory contains the MIDI mappings for various virtual

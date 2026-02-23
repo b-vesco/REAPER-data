@@ -1,0 +1,47 @@
+# MIDI note/CC name map
+#
+# Toontrack EZDrummer 3 - Death Metal / Alesis Strike Pro
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+#
+# examples:
+# 60 Middle C
+# CC7 Loudness
+
+# HI HAT
+7 HAT-Edge Trigger
+8 HAT-Tip Trigger
+22 HAT-Pedal Closed
+CC4 HAT-Pedal
+
+# RIDE
+26 RIDE-Edge
+51 RIDE-Bow Tip
+53 RIDE-Bell Shank
+59 RIDE-Edge
+
+# CYMBALS
+28 CHINA 2-Crash
+33 CRASH 1-Crash
+48 CRASH 2-Crash
+55 CRASH 1-Crash
+60 CRASH 3-Crash
+
+# KICK
+36 KICK 1-Hit
+
+# SNARE
+38 SNARE-Center
+40 SNARE-Rimshot
+
+# TOMS
+41 Floor Tom 2-Center
+43 Floor Tom 1-Center
+47 Rack Tom 3-Center
+40 Rack Tom 2-Center
+73     (alias 41) ft2c
+75     (alias 43) ft1c
+80     (alias 47) rt3c
+82     (alias 40) rt2c

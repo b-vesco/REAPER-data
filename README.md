@@ -10,7 +10,7 @@ the directories directly and click to view the raw files and download or copy
 them to your machine.
 
 If you clone the repo and want to use _all_ files, you can symlink them to your
-REAPER install dir (set for macOS only):
+REAPER install dir (verified on macOS only):
 
 ```shell
 ./makelinks.sh
